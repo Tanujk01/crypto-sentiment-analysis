@@ -59,7 +59,7 @@ jupyter notebook
 
 ---
 
-## 📊 Feature Engineering (Metrics Created)
+## Metrics 
 
 * Daily PnL
 * Win Rate
