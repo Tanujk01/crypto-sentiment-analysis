@@ -49,7 +49,7 @@ jupyter notebook
 * Open `notebook.ipynb`
 * Run all cells step by step
 
-## 🧹 Data Preparation
+##  Data Preparation
 
 * Loaded both datasets using pandas
 * Checked for missing values and duplicates
